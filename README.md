@@ -17,4 +17,8 @@ npm run dev
 npm test
 ```
 
+网站从 `main` 分支的 `docs` 目录发布到：
+
+https://ccao-ai.github.io/tuchatu/
+
 主要页面代码位于 `app/page.tsx`，视觉样式位于 `app/globals.css`。
